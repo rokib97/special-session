@@ -73,9 +73,9 @@ for (let btn of myButton) {
       const mainContainer = document.getElementById("right");
       const tableContainer = document.createElement("tr");
       tableContainer.innerHTML = `
-    <td>${count + ". "}</td>
-    <td>${Name}</td>
-`;
+        <td>${count + ". "}</td>
+        <td>${Name}</td>
+    `;
       mainContainer.appendChild(tableContainer);
     } else {
       alert("invalid ");
@@ -92,4 +92,5 @@ document.getElementById("hireme-btn").addEventListener("click", function () {
   //   const valueInput = valueField.value;
   document.getElementById("expense").innerText = totalExpenses;
   //   expensesValue.innerText = totalExpenses;
+  document.getElementById("hireme-btn").setAttribute("disabled", true);
 });

@@ -16,5 +16,5 @@ const firstName = "rokibul";
 const lastName = "rokib";
 // console.log(firstName + " " + lastName);
 
-console.log(`amar first nam ${firstName} amar last nam ${lastName}`);
+const fullName = `amar first nam ${firstName} amar last nam ${lastName}`;
 console.log(`Dui plus dui ${2 * 2 + 2}`);
