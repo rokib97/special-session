@@ -1,0 +1,36 @@
+# What is DOM ? 
+D => Docoment
+O => Object 
+M => Model
+
+# What can do JS with DOM
+    i)chnage HTML Elemnet
+    ii)Change HTML attributes
+    iii)change CSS style
+    vi)react to HTML events
+    v) Add and remove HTML attributes and element
+
+# Traversing DOM
+    i)using tagname //
+    ii)using className //
+    iii)using id !important
+    iv)using QuerySelector
+
+
+# Style With JS
+# Add & Remove class !important
+# Create Element and Append Child !important
+# GetAttributes & SetAttributes
+
+
+# Events in JavaScript
+    i) onclick !Important
+    ii) onchange
+    iii) onmouseover
+    iv) onblur etc
+
+# 2 ways to handle JS Events
+    i) Event Handler
+    ii)Event Listener
+
+    
